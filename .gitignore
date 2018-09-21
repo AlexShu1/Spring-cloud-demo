@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/spring-cloud-eureka-server/.idea/
+/spring-cloud-eureka-server/spring-cloud-eureka-server.iml
+/spring-cloud-eureka-server/target/
+/spring-cloud-feign/.idea/
+/spring-cloud-feign/target/
+/spring-cloud-feign/spring-cloud-feign.iml
+/spring-cloud-movie/.idea/
+/spring-cloud-movie/target/
+/spring-cloud-movie/spring-cloud-movie.iml
